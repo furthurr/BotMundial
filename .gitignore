@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+env/
+
+.env
+data/
+*.db
+*.db-journal
+
+.idea/
+.vscode/
+.DS_Store
+*.log
+
+# macOS custom folder icon
+Icon?
